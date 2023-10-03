@@ -5,3 +5,5 @@ I love his channel and after watching the video I wanted to try it by myself, es
 
 - [His Video](https://www.youtube.com/watch?v=PeY6lXPrPaA)
 - [His Repo](https://github.com/WebDevSimplified/js-pong)
+
+I deployed to the GitHub Pages, [come play!](https://liaximenes.github.io/PongGame/)  🏓
